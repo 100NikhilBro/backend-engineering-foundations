@@ -16,7 +16,7 @@
 
 
 
-// Object.create() --> so it used to create prototype manually
+// Object.create() --> so it used to create prototype manually for a newObject
 
 const Proto = {
     showProtoName() {

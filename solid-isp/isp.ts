@@ -2,6 +2,7 @@
 
 
 
+
 // interface is a contract like
 // woh saari classes jo is interface ko implements kregi woh saari ek contrcat mein aagyi 
 // ki unke pass yeh saare methods hone hi chaiye
