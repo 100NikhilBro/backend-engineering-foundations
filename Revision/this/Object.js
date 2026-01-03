@@ -6,3 +6,5 @@ const User = {
 }
 
 User.show();
+
+const fn = User.show(); // yeh ho jayega undefined - kyu ki call-Side change ho gya
