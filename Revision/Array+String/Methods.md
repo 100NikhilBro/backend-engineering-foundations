@@ -17,20 +17,3 @@
 5. .join() -> string chaiye kya array se lag do join
 6. .sort() -> same array refrence -> mutates Array
 
-
-
-<!-- String -->
-
-
-| slice()         |
-| `substring()`   | **new string**          |
-| `substr()`      | **new string (legacy)** |
-| `replace()`     | **new string**          |
-| `replaceAll()`  | **new string**          |
-| `toUpperCase()` | **new string**          |
-| `toLowerCase()` | **new string**          |
-| `trim()`        | **new string**          |
-
-
-
-
