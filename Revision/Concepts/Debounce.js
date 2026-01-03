@@ -1,4 +1,4 @@
-// Debounce 
+// Debounce - UI
 // it delays the fn execution until a specified time has passed since the last event
 
 // Eg ->
