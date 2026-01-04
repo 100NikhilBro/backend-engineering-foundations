@@ -11,3 +11,5 @@ const normalizeInput = (input) => {
 };
 
 module.exports = { normalizeInput };
+
+// Array -> String --> .join(' ');
