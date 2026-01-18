@@ -21,6 +21,15 @@ const { password, ...safeData } = reqBody;
 
 
 
+const MyUser = {
+    name: "NG",
+    email: "kabpur",
+    Userpassword: "tyui"
+}
+
+const { Userpassword, ...data } = MyUser
+
+
 
 // firstLog d/f baaki ek array hai 
 const logs = ['req1', 'req2', 'req3'];

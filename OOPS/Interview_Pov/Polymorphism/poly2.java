@@ -27,3 +27,16 @@ public class poly2 {
     }
 
 }
+
+class Animal {
+    void sound() {
+        System.out.println("Animals make sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("Dogs bark");
+    }
+}
