@@ -46,3 +46,55 @@ it('should fail if email missing', async() => {
 
     expect(res.status).toBe(400);
 });
+
+
+
+
+
+
+
+// alreadyExits
+
+import request from 'supertest';
+import app from '../app';
+
+describe('Aleady-Exists',()=>{
+    it('test',async()=>{
+
+        // First regiteration - Why this - for already in DB 
+         await request(app).
+            post(url).
+            send({
+                name:"abc",
+                email:"abc@gmail.com",
+                passwrod:"test@123"
+            })
+
+        // second regitration - make it laredy existed due to first 
+      const res = await request(app).
+            post(url).
+            send({
+                name:"abc",
+                email:"abc@gmail.com",
+                passwrod:"test@123"
+            })
+
+        expect(res.status).tobe(401);
+    })
+})
+
+// Now we run - our controller has not that thing so we have to update this like that 
+// in controller - in regiterFunction - User.findOne(email) - if already exists - 'User already exits' = that check 
+
+
+
+
+
+
+
+
+
+
+
+
+
