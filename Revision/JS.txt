@@ -1,0 +1,26 @@
+map filter reduce forEach find some every 
+slice splice 
+closure currying debounce throttle memoization 
+fn composition pure fn  impure fn Promise all allSettled any race CallBack Hell Promisification Try Catch Sync Async Await 
+Cookie Session LocalStorage IndexDB
+Sequential Async Parallel Async
+This default binding implicit binding explicit binding new binding call bind apply 
+Mark & Sweep Algorithm Garbage Collector 
+How does JS work CallStack Execution Context Lexical Environment Variable Environment block Scope Functional Scope WebApi MicroTaskQueue MacroTask Queue
+SetTimeOut SetInteraval
+DOM DOMTree Repaint Reflow Fragment 
+Event Handling Event Delegation Bubbling Capturing Event Propogation Event object Stop Propogation 
+Prototypal Inheritence __proto__ .Prototype PrototypalChaining Object.create() DelegationPattern PropertyShdowing 
+Hoisting TDZ let const vs var 
+Arrow function declarative function IIFE Yield
+Object Values Writeable configurable Enumerbale 
+Object.Freeze Object.seal Object.preventPropertyExtension 
+== === typeOf JSON.stringify() 
+JS Engine Creation Phase Excution Phase ScopeChain LexicalEnvironment 
+Deep Copy Shallow Copy Object.assign()
+Symbols 
+Reflect & Proxies 
+Rest Spread 
+Weak map Weak Set 
+
+Practice Question As Well on topics like this binding Prototypal Inheritence deep shallow Hoisting TDZ CallStack MicroTask MacroTask Queue SetTimeOut SetInterval == === event Loop trick Question 
