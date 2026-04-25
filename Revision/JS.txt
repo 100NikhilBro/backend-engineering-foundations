@@ -15,7 +15,7 @@ Hoisting TDZ let const vs var
 Arrow function declarative function IIFE Yield
 Object Values Writeable configurable Enumerbale 
 Object.Freeze Object.seal Object.preventPropertyExtension 
-== === typeOf JSON.stringify() 
+== === typeOf JSON.stringify() OptionalChaining
 JS Engine Creation Phase Excution Phase ScopeChain LexicalEnvironment 
 Deep Copy Shallow Copy Object.assign()
 Symbols 
