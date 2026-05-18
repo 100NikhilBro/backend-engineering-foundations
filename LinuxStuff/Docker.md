@@ -55,4 +55,4 @@
 * Avoid to touch networking in docker-compose.yml 
 * volume in docker-compose.yml 
 * custom docker build 
-* Docker  Orchestration - Need AWS understanding and I have idea of that now work with that for now 
+* Docker  Orchestration - Need AWS understanding and I have idea of that like how it work but practical works needed 
