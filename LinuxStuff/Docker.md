@@ -19,7 +19,7 @@
 * docker login 
 * docker build -t Repo-Name
 * docker push Repo-Name
-* docker tag imgName Reop-name:vX | X= 1 , 2 , 3 . 3.5 , 1.4
+* docker tag imgName Repo-name:vX | X= 1 , 2 , 3 . 3.5 , 1.4
 * Multi Stage Build - This is used to optimize the docker file in which build a docker file in stages 
 *  Security in Dockerfile 
 * docker run -it -p 3000:3000 -e PORT = 3000 img-name
