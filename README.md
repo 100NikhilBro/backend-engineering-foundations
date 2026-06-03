@@ -239,9 +239,9 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## SQL Comparison Operators
+## SQL Comparison - subquery vs cte vs tmp vs ctas vs views 
 
-![SQL Comparison Operators](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Comparison.png)
+![SQL Comparison ](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Comparison.png)
 
 <br><br><br>
 
