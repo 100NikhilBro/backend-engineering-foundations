@@ -123,6 +123,13 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+
+## Isolation Levels & Locking
+
+![Isolation Levels & Locking](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Isolation_Locking.png)
+
+<br><br><br>
+
 ## Processes & Threads
 
 ![Processes & Threads](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Process%26Threads.png)
@@ -248,6 +255,19 @@ This repository serves as a visual reference for:
 ## Database Indexing
 
 ![Database Indexing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Index.png)
+
+<br><br><br>
+
+
+## Regular Expressions
+
+![Regular Expressions](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RegularExpressions.png)
+
+<br><br><br>
+
+## Window Functions
+
+![Window Functions](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/WindowFn.png)
 
 <br><br><br>
 
