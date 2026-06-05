@@ -1,0 +1,276 @@
+# Backend Engineering Foundations
+
+A visual collection of Backend Engineering, System Design, Networking, Security, and SQL concepts explained through diagrams.
+
+---
+
+## Purpose
+
+This repository serves as a visual reference for:
+
+- Backend Engineering Fundamentals
+- System Design Concepts
+- Distributed Systems
+- Networking
+- Database Internals
+- Security Fundamentals
+- Scalability & Reliability Patterns
+- Technical Interview Preparation
+
+---
+
+# System Design and Network
+
+## API Gateway & Load Balancer
+
+![API Gateway & Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/APIGateway_LB.png)
+
+<br><br><br>
+
+## Backpressure
+
+![Backpressure](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Backpressure.png)
+
+<br><br><br>
+
+## Bulkheads Pattern
+
+![Bulkheads Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Bulkheads.png)
+
+<br><br><br>
+
+## Content Delivery Network (CDN)
+
+![CDN](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CDN.png)
+
+<br><br><br>
+
+## Circuit Breaker Pattern
+
+![Circuit Breaker Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CircuitBreakerPattern.png)
+
+<br><br><br>
+
+## Concurrency vs Parallelism
+
+![Concurrency vs Parallelism](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Concurrency%26Parallelism.png)
+
+<br><br><br>
+
+## Consistency Models
+
+![Consistency Models](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyModel.png)
+
+<br><br><br>
+
+## Consistency in NoSQL
+
+![Consistency in NoSQL](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyinNoSql.png)
+
+<br><br><br>
+
+## Consistent Hashing
+
+![Consistent Hashing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Db_NoSql__CHashingPracticla.png)
+
+<br><br><br>
+
+## Failover
+
+![Failover](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failover.png)
+
+<br><br><br>
+
+## Failure Handling
+
+![Failure Handling](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failure.png)
+
+<br><br><br>
+
+## Gossip Protocol & Database Failures
+
+![Gossip Protocol & Database Failures](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/FailureInDb_GossipAlgo.png)
+
+<br><br><br>
+
+## Federation
+
+![Federation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Federation.png)
+
+<br><br><br>
+
+## Graceful Degradation
+
+![Graceful Degradation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/GracefulDegradation.png)
+
+<br><br><br>
+
+## Load Balancer
+
+![Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB.png)
+
+<br><br><br>
+
+## PACELC Theorem
+
+![PACELC Theorem](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PACELC.png)
+
+<br><br><br>
+
+## Payment Gateway Overview
+
+![Payment Gateway Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PaymetGateway_Overview.png)
+
+<br><br><br>
+
+## Processes & Threads
+
+![Processes & Threads](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Process%26Threads.png)
+
+<br><br><br>
+
+## Proxy
+
+![Proxy](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Proxy.png)
+
+<br><br><br>
+
+## Queue
+
+![Queue](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Queue.png)
+
+<br><br><br>
+
+## Retry Mechanism
+
+![Retry Mechanism](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RetryMechanism.png)
+
+<br><br><br>
+
+## SQL Architecture
+
+![SQL Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/SQL_Architecture.png)
+
+<br><br><br>
+
+## API Versioning
+
+![API Versioning](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Versioning.png)
+
+<br><br><br>
+
+## Why Backend Shouldn't Serve Static Files
+
+![Why Backend Shouldn't Serve Static Files](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/BackendNotServeStaticFiles.png)
+
+<br><br><br>
+
+## Decorators
+
+![Decorators](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Decorators.png)
+
+<br><br><br>
+
+## Event Driven Architecture
+
+![Event Driven Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/EventDrivenArchitetcure.png)
+
+<br><br><br>
+
+## HTTP Headers
+
+![HTTP Headers](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Header.png)
+
+<br><br><br>
+
+## HTTP Fundamentals
+
+![HTTP Fundamentals](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Http.png)
+
+<br><br><br>
+
+## Remote Procedure Call (RPC)
+
+![RPC](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/RPC.png)
+
+<br><br><br>
+
+## Server-Sent Events (SSE) & Webhooks
+
+![SSE & Webhooks](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/SSE_Webhook.png)
+
+<br><br><br>
+
+---
+
+# Security
+
+## Authentication vs Authorization
+
+![Authentication vs Authorization](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/AuthN%26AuthZ.png)
+
+<br><br><br>
+
+## Browser Security
+
+![Browser Security](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/BrowserSecurity.png)
+
+<br><br><br>
+
+## Cookies, Sessions & Replay Attacks
+
+![Cookies, Sessions & Replay Attacks](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/Cookie_session_replay.png)
+
+<br><br><br>
+
+## Privilege Escalation, CSRF, XSS & Injection Attacks
+
+![Privilege Escalation, CSRF, XSS & Injection Attacks](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/Escalation_csrf_xss_injection.png)
+
+<br><br><br>
+
+---
+
+# SQL
+
+## CTEs & Views
+
+![CTEs & Views](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/CTE_Views.png)
+
+<br><br><br>
+
+## SQL Comparison - subquery vs cte vs tmp vs ctas vs views 
+
+![SQL Comparison ](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Comparison.png)
+
+<br><br><br>
+
+## Database Indexing
+
+![Database Indexing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Index.png)
+
+<br><br><br>
+
+## Subqueries
+
+![Subqueries](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/SubQuery.png)
+
+<br><br><br>
+
+## Clustered vs Non-Clustered Indexes
+
+![Clustered vs Non-Clustered Indexes](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/cluster_nonCluster.png)
+
+<br><br><br>
+
+---
+
+# Ongoing Work
+
+New concepts, diagrams, and improvements are added regularly as the repository evolves.
+
+---
+
+# Author
+
+Built and maintained by **Nikhil Gupta**.
