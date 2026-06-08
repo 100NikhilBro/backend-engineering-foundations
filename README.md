@@ -1,6 +1,6 @@
 # Backend Engineering Foundations
 
-A visual collection of Backend Engineering, System Design, Networking, Security, and SQL concepts explained through diagrams.
+A visual collection of Backend Engineering, Low Level Design, System Design, Networking, Security, and SQL concepts explained through diagrams.
 
 ---
 
@@ -8,14 +8,57 @@ A visual collection of Backend Engineering, System Design, Networking, Security,
 
 This repository serves as a visual reference for:
 
-- Backend Engineering Fundamentals
-- System Design Concepts
-- Distributed Systems
-- Networking
-- Database Internals
-- Security Fundamentals
-- Scalability & Reliability Patterns
-- Technical Interview Preparation
+* Backend Engineering Fundamentals
+* Low Level Design (LLD)
+* Object-Oriented Design (OOD)
+* Design Principles (SOLID, Coupling & Cohesion)
+* System Design Concepts
+* Distributed Systems
+* Networking
+* Database Internals
+* Security Fundamentals
+* Scalability & Reliability Patterns
+* Technical Interview Preparation
+
+---
+
+# Low Level Design (LLD)
+
+## Approach to Solving a Design Problem
+
+![Approach to Solving a Design Problem](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/1.Approach_A_Problem.png)
+
+<br><br><br>
+
+## Coupling & Cohesion
+
+![Coupling & Cohesion](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/2.Coupling%26Cohesion.png)
+
+<br><br><br>
+
+## Object vs Class
+
+![Object vs Class](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/3.Object_Class.png)
+
+<br><br><br>
+
+## Four Pillars of OOP
+
+![Four Pillars of OOP](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/4.PillarsofOOPs.png)
+
+<br><br><br>
+
+## Relationships in Object-Oriented Design
+
+![Relationships in Object-Oriented Design](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/5.Relationship.png)
+
+<br><br><br>
+
+## SOLID Principles Overview
+
+![SOLID Principles Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/6.SOLID_OVERVIEW.png)
+
+<br><br><br>
 
 ---
 
@@ -122,7 +165,6 @@ This repository serves as a visual reference for:
 ![Payment Gateway Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PaymetGateway_Overview.png)
 
 <br><br><br>
-
 
 ## Isolation Levels & Locking
 
@@ -246,9 +288,9 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## SQL Comparison - subquery vs cte vs tmp vs ctas vs views 
+## SQL Comparison - Subquery vs CTE vs Temp Table vs CTAS vs Views
 
-![SQL Comparison ](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Comparison.png)
+![SQL Comparison](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Comparison.png)
 
 <br><br><br>
 
@@ -257,7 +299,6 @@ This repository serves as a visual reference for:
 ![Database Indexing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Index.png)
 
 <br><br><br>
-
 
 ## Regular Expressions
 
@@ -288,6 +329,17 @@ This repository serves as a visual reference for:
 # Ongoing Work
 
 New concepts, diagrams, and improvements are added regularly as the repository evolves.
+
+Upcoming additions include:
+
+* Design Patterns
+* Advanced LLD Case Studies
+* Database Internals
+* Distributed Systems Deep Dives
+* Caching Strategies
+* Message Queues
+* Observability & Monitoring
+* Microservices Patterns
 
 ---
 
