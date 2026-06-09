@@ -60,6 +60,37 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Single Responsibility Principle (SRP)
+
+![Single Responsibility Principle](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/7.SRP.png)
+
+<br><br><br>
+
+## Open Closed Principle (OCP)
+
+![Open Closed Principle](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/8.OCP.png)
+
+<br><br><br>
+
+## Liskov Substitution Principle (LSP)
+
+![Liskov Substitution Principle](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/9.LSP.png)
+
+<br><br><br>
+
+## Interface Segregation Principle (ISP)
+
+![Interface Segregation Principle](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/10.ISP.png)
+
+<br><br><br>
+
+## Dependency Inversion Principle (DIP)
+
+![Dependency Inversion Principle](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/11.DIP.png)
+
+<br><br><br>
+
+
 ---
 
 # System Design and Network
