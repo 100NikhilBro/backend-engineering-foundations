@@ -330,19 +330,6 @@ This repository serves as a visual reference for:
 
 New concepts, diagrams, and improvements are added regularly as the repository evolves.
 
-Upcoming additions include:
-
-* Design Patterns
-* Advanced LLD Case Studies
-* Database Internals
-* Distributed Systems Deep Dives
-* Caching Strategies
-* Message Queues
-* Observability & Monitoring
-* Microservices Patterns
-
----
-
 # Author
 
 Built and maintained by **Nikhil Gupta**.
