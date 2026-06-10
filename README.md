@@ -93,6 +93,29 @@ This repository serves as a visual reference for:
 
 ---
 
+
+## Singleton Pattern
+
+![Singleton Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/12.Singleton.png)
+
+<br><br><br>
+
+## Factory Pattern
+
+![Factory Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/13.Factory.png)
+
+<br><br><br>
+
+## Builder Pattern
+
+![Builder Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/14.Builder.png)
+
+<br><br><br>
+
+
+---
+
+
 # System Design and Network
 
 ## API Gateway & Load Balancer
