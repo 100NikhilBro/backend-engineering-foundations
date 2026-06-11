@@ -1,9 +1,3 @@
-# Backend Engineering Foundations
-
-A visual collection of Backend Engineering, Low Level Design, System Design, Networking, Security, and SQL concepts explained through diagrams.
-
----
-
 ## Purpose
 
 This repository serves as a visual reference for:
@@ -19,6 +13,17 @@ This repository serves as a visual reference for:
 * Security Fundamentals
 * Scalability & Reliability Patterns
 * Technical Interview Preparation
+
+---
+
+## Table of Contents
+
+- [Low Level Design (LLD)](#low-level-design-lld)
+- [System Design and Network](#system-design-and-network)
+- [Security](#security)
+- [SQL](#sql)
+- [Ongoing Work](#ongoing-work)
+- [Author](#author)
 
 ---
 
@@ -144,6 +149,8 @@ This repository serves as a visual reference for:
 <br><br><br>
 
 ---
+
+<br><br><br>
 
 
 # System Design and Network
@@ -334,7 +341,11 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+
 ---
+
+<br><br><br>
+
 
 # Security
 
@@ -362,7 +373,11 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+
 ---
+
+<br><br><br>
+
 
 # SQL
 
