@@ -113,6 +113,36 @@ This repository serves as a visual reference for:
 <br><br><br>
 
 
+## Strategy Pattern
+
+![Strategy Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/15.Strategy.png)
+
+<br><br><br>
+
+## Observer Pattern
+
+![Observer Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/16.Observer.png)
+
+<br><br><br>
+
+## Adapter Pattern
+
+![Adapter Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/17.Adapter.png)
+
+<br><br><br>
+
+## Decorator Pattern
+
+![Decorator Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/18.Decorator.png)
+
+<br><br><br>
+
+## Facade Pattern
+
+![Facade Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/19.Facade.png)
+
+<br><br><br>
+
 ---
 
 
