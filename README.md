@@ -428,11 +428,8 @@ This repository serves as a visual reference for:
 
 # Ongoing Work
 
-New concepts, diagrams, and improvements are added regularly as the repository evolves.
+New concepts, diagrams, and improvements are added regularly as the repository evolves. If this repository adds value to your learning journey, a ⭐ is always appreciated.
 
-## Support the Project
-
-If you found value in this repository, a ⭐ would be appreciated. It helps the project reach more learners and supports ongoing improvements.
 
 # Author
 
