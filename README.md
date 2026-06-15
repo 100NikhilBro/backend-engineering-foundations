@@ -239,6 +239,12 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## LB & Load Balancing Algorithms
+
+![Load Balancing Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB%26Algos.png)
+
+<br><br><br>
+
 ## Load Balancer
 
 ![Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB.png)
