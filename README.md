@@ -161,6 +161,12 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Rate Limiting
+
+![Rate Limiting](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingOverView.png)
+
+<br><br><br>
+
 ## Backpressure
 
 ![Backpressure](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Backpressure.png)
