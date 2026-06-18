@@ -239,15 +239,21 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## LB & Load Balancing Algorithms
+## Load Balancer Overview
 
-![Load Balancing Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB%26Algos.png)
+![Load Balancer Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LBOverview.png)
 
 <br><br><br>
 
-## Load Balancer
+## Load Balancer Types (L4, L7, Active-Active, Active-Passive)
 
-![Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB.png)
+![Load Balancer Types](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LB.png)
+
+<br><br><br>
+
+## Load Balancing Algorithms
+
+![Load Balancing Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/LBAlgos.png)
 
 <br><br><br>
 
