@@ -167,6 +167,14 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+<br><br><br>
+
+## Rate Limiting Algorithms
+
+![Rate Limiting Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingAlgos.png)
+
+<br><br><br>
+
 ## Backpressure
 
 ![Backpressure](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Backpressure.png)
