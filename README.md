@@ -193,6 +193,15 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+
+## Caching
+
+![Caching](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Caching.png)
+
+<br><br><br>
+
+
+
 ## Circuit Breaker Pattern
 
 ![Circuit Breaker Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CircuitBreakerPattern.png)
