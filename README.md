@@ -155,6 +155,19 @@ This repository serves as a visual reference for:
 
 # System Design and Network
 
+
+## AWS Frequently Used Services Overview
+
+![AWS Frequently Used Services Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/AWS-%20Frequently%20Used%20Services%20Overview.png)
+
+<br><br><br>
+
+## AWS Single Instance Deployment (Basic Overview)
+
+![AWS Single Instance Deployment](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/AWS%20Single%20Intance%20Deplymnet%20-%20Basic%20Overview.png)
+
+<br><br><br>
+
 ## API Gateway & Load Balancer
 
 ![API Gateway & Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/APIGateway_LB.png)
