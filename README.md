@@ -1,3 +1,14 @@
+# Backend Engineering Foundations
+
+A visual-first repository for learning Backend Engineering, System Design, Security, SQL, and Distributed Systems through structured diagrams.
+
+> **Looking for Computer Networks?**
+> Check out **Networks Foundation** — a companion repository with **30+ visual Computer Networks diagrams** covering OSI, TCP/IP, Routing, Switching, Security, TCP vs UDP, WebSocket vs WebRTC, and more.
+>
+> 🔗 https://github.com/100NikhilBro/networks-foundation
+
+---
+
 ## Purpose
 
 This repository serves as a visual reference for:
