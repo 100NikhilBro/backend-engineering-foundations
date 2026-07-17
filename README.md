@@ -230,6 +230,12 @@ This repository serves as a visual reference for:
 <br><br><br>
 
 
+## Bloom Filter
+
+![Bloom Filter](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/BloomFilter.png)
+
+<br><br><br>
+
 
 ## Circuit Breaker Pattern
 
