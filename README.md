@@ -267,6 +267,12 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Merkle Tree
+
+![Merkle Tree](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/MerkleTree.png)
+
+<br><br><br>
+
 ## Failover
 
 ![Failover](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failover.png)
