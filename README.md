@@ -35,15 +35,40 @@ This repository serves as a visual reference for:
 ## Table of Contents
 
 - [Low Level Design (LLD)](#low-level-design-lld)
-- [System Design and Network](#system-design-and-network)
+- [System Design & Backend](#system-design--backend)
 - [Security](#security)
 - [SQL](#sql)
 - [Ongoing Work](#ongoing-work)
 - [Author](#author)
 
 ---
-
 # Low Level Design (LLD)
+
+## Contents
+
+| No. | Diagram |
+|:--:|---------|
+| 1 | [Approach to Solving a Design Problem](#approach-to-solving-a-design-problem) |
+| 2 | [Coupling & Cohesion](#coupling--cohesion) |
+| 3 | [Object vs Class](#object-vs-class) |
+| 4 | [Four Pillars of OOP](#four-pillars-of-oop) |
+| 5 | [Relationships in Object-Oriented Design](#relationships-in-object-oriented-design) |
+| 6 | [SOLID Principles Overview](#solid-principles-overview) |
+| 7 | [Single Responsibility Principle (SRP)](#single-responsibility-principle-srp) |
+| 8 | [Open Closed Principle (OCP)](#open-closed-principle-ocp) |
+| 9 | [Liskov Substitution Principle (LSP)](#liskov-substitution-principle-lsp) |
+| 10 | [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp) |
+| 11 | [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip) |
+| 12 | [Singleton Pattern](#singleton-pattern) |
+| 13 | [Factory Pattern](#factory-pattern) |
+| 14 | [Builder Pattern](#builder-pattern) |
+| 15 | [Adapter Pattern](#adapter-pattern) |
+| 16 | [Strategy Pattern](#strategy-pattern) |
+| 17 | [Observer Pattern](#observer-pattern) |
+| 18 | [Decorator Pattern](#decorator-pattern) |
+| 19 | [Facade Pattern](#facade-pattern) |
+
+---
 
 ## Approach to Solving a Design Problem
 
@@ -111,9 +136,7 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-
 ---
-
 
 ## Singleton Pattern
 
@@ -133,6 +156,11 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Adapter Pattern
+
+![Adapter Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/17.Adapter.png)
+
+<br><br><br>
 
 ## Strategy Pattern
 
@@ -143,12 +171,6 @@ This repository serves as a visual reference for:
 ## Observer Pattern
 
 ![Observer Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/16.Observer.png)
-
-<br><br><br>
-
-## Adapter Pattern
-
-![Adapter Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/LLD/17.Adapter.png)
 
 <br><br><br>
 
@@ -168,9 +190,54 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+# System Design & Backend
 
-# System Design and Network
+## Contents
 
+| No. | Diagram |
+|:--:|---------|
+| 1 | [AWS Frequently Used Services Overview](#aws-frequently-used-services-overview) |
+| 2 | [AWS Single Instance Deployment (Basic Overview)](#aws-single-instance-deployment-basic-overview) |
+| 3 | [Proxy](#proxy) |
+| 4 | [API Gateway & Load Balancer](#api-gateway--load-balancer) |
+| 5 | [Load Balancer Overview](#load-balancer-overview) |
+| 6 | [Load Balancer Types (L4, L7, Active-Active, Active-Passive)](#load-balancer-types-l4-l7-active-active-active-passive) |
+| 7 | [Load Balancing Algorithms](#load-balancing-algorithms) |
+| 8 | [Content Delivery Network (CDN)](#content-delivery-network-cdn) |
+| 9 | [Caching](#caching) |
+| 10 | [Rate Limiting](#rate-limiting) |
+| 11 | [Rate Limiting Algorithms](#rate-limiting-algorithms) |
+| 12 | [Backpressure](#backpressure) |
+| 13 | [Queue](#queue) |
+| 14 | [Retry Mechanism](#retry-mechanism) |
+| 15 | [Circuit Breaker Pattern](#circuit-breaker-pattern) |
+| 16 | [Bulkheads Pattern](#bulkheads-pattern) |
+| 17 | [Failover](#failover) |
+| 18 | [Failure Handling](#failure-handling) |
+| 19 | [Graceful Degradation](#graceful-degradation) |
+| 20 | [Concurrency vs Parallelism](#concurrency-vs-parallelism) |
+| 21 | [Processes & Threads](#processes--threads) |
+| 22 | [Consistency Models](#consistency-models) |
+| 23 | [Consistency in NoSQL](#consistency-in-nosql) |
+| 24 | [PACELC Theorem](#pacelc-theorem) |
+| 25 | [Consistent Hashing](#consistent-hashing) |
+| 26 | [Bloom Filter](#bloom-filter) |
+| 27 | [Merkle Tree](#merkle-tree) |
+| 28 | [Gossip Protocol & Database Failures](#gossip-protocol--database-failures) |
+| 29 | [Federation](#federation) |
+| 30 | [HTTP Fundamentals](#http-fundamentals) |
+| 31 | [HTTP Headers](#http-headers) |
+| 32 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
+| 33 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
+| 34 | [API Versioning](#api-versioning) |
+| 35 | [Event Driven Architecture](#event-driven-architecture) |
+| 36 | [Payment Gateway Overview](#payment-gateway-overview) |
+| 37 | [SQL Architecture](#sql-architecture) |
+| 38 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 39 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 40 | [Decorators](#decorators) |
+
+---
 
 ## AWS Frequently Used Services Overview
 
@@ -184,122 +251,15 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Proxy
+
+![Proxy](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Proxy.png)
+
+<br><br><br>
+
 ## API Gateway & Load Balancer
 
 ![API Gateway & Load Balancer](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/APIGateway_LB.png)
-
-<br><br><br>
-
-## Rate Limiting
-
-![Rate Limiting](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingOverView.png)
-
-<br><br><br>
-
-<br><br><br>
-
-## Rate Limiting Algorithms
-
-![Rate Limiting Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingAlgos.png)
-
-<br><br><br>
-
-## Backpressure
-
-![Backpressure](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Backpressure.png)
-
-<br><br><br>
-
-## Bulkheads Pattern
-
-![Bulkheads Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Bulkheads.png)
-
-<br><br><br>
-
-## Content Delivery Network (CDN)
-
-![CDN](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CDN.png)
-
-<br><br><br>
-
-
-## Caching
-
-![Caching](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Caching.png)
-
-<br><br><br>
-
-
-## Bloom Filter
-
-![Bloom Filter](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/BloomFilter.png)
-
-<br><br><br>
-
-
-## Circuit Breaker Pattern
-
-![Circuit Breaker Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CircuitBreakerPattern.png)
-
-<br><br><br>
-
-## Concurrency vs Parallelism
-
-![Concurrency vs Parallelism](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Concurrency%26Parallelism.png)
-
-<br><br><br>
-
-## Consistency Models
-
-![Consistency Models](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyModel.png)
-
-<br><br><br>
-
-## Consistency in NoSQL
-
-![Consistency in NoSQL](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyinNoSql.png)
-
-<br><br><br>
-
-## Consistent Hashing
-
-![Consistent Hashing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Db_NoSql__CHashingPracticla.png)
-
-<br><br><br>
-
-## Merkle Tree
-
-![Merkle Tree](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/MerkleTree.png)
-
-<br><br><br>
-
-## Failover
-
-![Failover](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failover.png)
-
-<br><br><br>
-
-## Failure Handling
-
-![Failure Handling](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failure.png)
-
-<br><br><br>
-
-## Gossip Protocol & Database Failures
-
-![Gossip Protocol & Database Failures](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/FailureInDb_GossipAlgo.png)
-
-<br><br><br>
-
-## Federation
-
-![Federation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Federation.png)
-
-<br><br><br>
-
-## Graceful Degradation
-
-![Graceful Degradation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/GracefulDegradation.png)
 
 <br><br><br>
 
@@ -321,33 +281,33 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## PACELC Theorem
+## Content Delivery Network (CDN)
 
-![PACELC Theorem](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PACELC.png)
-
-<br><br><br>
-
-## Payment Gateway Overview
-
-![Payment Gateway Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PaymetGateway_Overview.png)
+![CDN](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CDN.png)
 
 <br><br><br>
 
-## Isolation Levels & Locking
+## Caching
 
-![Isolation Levels & Locking](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Isolation_Locking.png)
-
-<br><br><br>
-
-## Processes & Threads
-
-![Processes & Threads](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Process%26Threads.png)
+![Caching](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Caching.png)
 
 <br><br><br>
 
-## Proxy
+## Rate Limiting
 
-![Proxy](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Proxy.png)
+![Rate Limiting](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingOverView.png)
+
+<br><br><br>
+
+## Rate Limiting Algorithms
+
+![Rate Limiting Algorithms](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RateLimitingAlgos.png)
+
+<br><br><br>
+
+## Backpressure
+
+![Backpressure](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Backpressure.png)
 
 <br><br><br>
 
@@ -363,45 +323,105 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## SQL Architecture
+## Circuit Breaker Pattern
 
-![SQL Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/SQL_Architecture.png)
-
-<br><br><br>
-
-## API Versioning
-
-![API Versioning](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Versioning.png)
+![Circuit Breaker Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/CircuitBreakerPattern.png)
 
 <br><br><br>
 
-## Why Backend Shouldn't Serve Static Files
+## Bulkheads Pattern
 
-![Why Backend Shouldn't Serve Static Files](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/BackendNotServeStaticFiles.png)
-
-<br><br><br>
-
-## Decorators
-
-![Decorators](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Decorators.png)
+![Bulkheads Pattern](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Bulkheads.png)
 
 <br><br><br>
 
-## Event Driven Architecture
+## Failover
 
-![Event Driven Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/EventDrivenArchitetcure.png)
+![Failover](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failover.png)
 
 <br><br><br>
 
-## HTTP Headers
+## Failure Handling
 
-![HTTP Headers](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Header.png)
+![Failure Handling](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Failure.png)
+
+<br><br><br>
+
+## Graceful Degradation
+
+![Graceful Degradation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/GracefulDegradation.png)
+
+<br><br><br>
+
+## Concurrency vs Parallelism
+
+![Concurrency vs Parallelism](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Concurrency%26Parallelism.png)
+
+<br><br><br>
+
+## Processes & Threads
+
+![Processes & Threads](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Process%26Threads.png)
+
+<br><br><br>
+
+## Consistency Models
+
+![Consistency Models](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyModel.png)
+
+<br><br><br>
+
+## Consistency in NoSQL
+
+![Consistency in NoSQL](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/ConsistencyinNoSql.png)
+
+<br><br><br>
+
+## PACELC Theorem
+
+![PACELC Theorem](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PACELC.png)
+
+<br><br><br>
+
+## Consistent Hashing
+
+![Consistent Hashing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Db_NoSql__CHashingPracticla.png)
+
+<br><br><br>
+
+## Bloom Filter
+
+![Bloom Filter](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/BloomFilter.png)
+
+<br><br><br>
+
+## Merkle Tree
+
+![Merkle Tree](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/MerkleTree.png)
+
+<br><br><br>
+
+## Gossip Protocol & Database Failures
+
+![Gossip Protocol & Database Failures](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/FailureInDb_GossipAlgo.png)
+
+<br><br><br>
+
+## Federation
+
+![Federation](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Federation.png)
 
 <br><br><br>
 
 ## HTTP Fundamentals
 
 ![HTTP Fundamentals](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Http.png)
+
+<br><br><br>
+
+## HTTP Headers
+
+![HTTP Headers](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Header.png)
 
 <br><br><br>
 
@@ -417,23 +437,68 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## API Versioning
+
+![API Versioning](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Versioning.png)
+
+<br><br><br>
+
+## Event Driven Architecture
+
+![Event Driven Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/EventDrivenArchitetcure.png)
+
+<br><br><br>
+
+## Payment Gateway Overview
+
+![Payment Gateway Overview](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/PaymetGateway_Overview.png)
+
+<br><br><br>
+
+## SQL Architecture
+
+![SQL Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/SQL_Architecture.png)
+
+<br><br><br>
+
+## Isolation Levels & Locking
+
+![Isolation Levels & Locking](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Isolation_Locking.png)
+
+<br><br><br>
+
+## Why Backend Shouldn't Serve Static Files
+
+![Why Backend Shouldn't Serve Static Files](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/BackendNotServeStaticFiles.png)
+
+<br><br><br>
+
+## Decorators
+
+![Decorators](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Decorators.png)
+
+<br><br><br>
 
 ---
 
 <br><br><br>
 
-
 # Security
+
+## Contents
+
+| No. | Diagram |
+|:--:|---------|
+| 1 | [Authentication vs Authorization](#authentication-vs-authorization) |
+| 2 | [Cookies, Sessions & Replay Attacks](#cookies-sessions--replay-attacks) |
+| 3 | [Browser Security](#browser-security) |
+| 4 | [Privilege Escalation, CSRF, XSS & Injection Attacks](#privilege-escalation-csrf-xss--injection-attacks) |
+
+---
 
 ## Authentication vs Authorization
 
 ![Authentication vs Authorization](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/AuthN%26AuthZ.png)
-
-<br><br><br>
-
-## Browser Security
-
-![Browser Security](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/BrowserSecurity.png)
 
 <br><br><br>
 
@@ -443,19 +508,43 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
+## Browser Security
+
+![Browser Security](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/BrowserSecurity.png)
+
+<br><br><br>
+
 ## Privilege Escalation, CSRF, XSS & Injection Attacks
 
 ![Privilege Escalation, CSRF, XSS & Injection Attacks](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Security/Escalation_csrf_xss_injection.png)
 
 <br><br><br>
 
-
 ---
 
 <br><br><br>
 
-
 # SQL
+
+## Contents
+
+| No. | Diagram |
+|:--:|---------|
+| 1 | [Subqueries](#subqueries) |
+| 2 | [CTEs & Views](#ctes--views) |
+| 3 | [SQL Comparison - Subquery vs CTE vs Temp Table vs CTAS vs Views](#sql-comparison---subquery-vs-cte-vs-temp-table-vs-ctas-vs-views) |
+| 4 | [Window Functions](#window-functions) |
+| 5 | [Regular Expressions](#regular-expressions) |
+| 6 | [Database Indexing](#database-indexing) |
+| 7 | [Clustered vs Non-Clustered Indexes](#clustered-vs-non-clustered-indexes) |
+
+---
+
+## Subqueries
+
+![Subqueries](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/SubQuery.png)
+
+<br><br><br>
 
 ## CTEs & Views
 
@@ -469,9 +558,9 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## Database Indexing
+## Window Functions
 
-![Database Indexing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Index.png)
+![Window Functions](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/WindowFn.png)
 
 <br><br><br>
 
@@ -481,15 +570,9 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## Window Functions
+## Database Indexing
 
-![Window Functions](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/WindowFn.png)
-
-<br><br><br>
-
-## Subqueries
-
-![Subqueries](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/SubQuery.png)
+![Database Indexing](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/SQL/Index.png)
 
 <br><br><br>
 
@@ -500,8 +583,6 @@ This repository serves as a visual reference for:
 <br><br><br>
 
 ---
----
-
 # Ongoing Work
 
 New concepts, diagrams, and improvements are added regularly as the repository evolves. If this repository adds value to your learning journey, a ⭐ is always appreciated.
