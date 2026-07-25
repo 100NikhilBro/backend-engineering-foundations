@@ -2,14 +2,16 @@
 
 A visual-first repository for learning Backend Engineering, System Design, Security, SQL, and Distributed Systems through structured diagrams.
 
+<video src="https://github.com/100NikhilBro/backend-engineering-foundations/blob/main/Screen%20Recording%202026-07-25%20151734.mp4?raw=true" controls autoplay muted loop width="100%"></video>
+
 > **Looking for Computer Networks?**
 > Check out **Networks Foundation** — a companion repository with **30+ visual Computer Networks diagrams** covering OSI, TCP/IP, Routing, Switching, Security, TCP vs UDP, WebSocket vs WebRTC, and more.
->
+> 
 > - https://github.com/100NikhilBro/networks-foundation
->
+
 > **Looking for Operating Systems & Database Management Systems?**
 > Check out **OS & DBMS Foundation** — a companion repository with **visual Operating Systems and Database Management Systems diagrams** covering Process Management, Memory Management, Deadlocks, SQL, Normalization, Transactions, Indexing, MVCC, Replication, and more.
->
+> 
 > - https://github.com/100NikhilBro/os_dbms
 
 ---
