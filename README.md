@@ -1,18 +1,22 @@
 # Backend Engineering Foundations
 
-A visual-first repository for learning Backend Engineering, System Design, Security, SQL, and Distributed Systems through structured diagrams.
+A visual-first repository for learning Backend Engineering, Low Level Design, System Design, Security, SQL, and Distributed Systems through structured diagrams.
 
-<video src="https://github.com/100NikhilBro/backend-engineering-foundations/blob/main/Screen%20Recording%202026-07-25%20151734.mp4?raw=true" controls autoplay muted loop width="100%"></video>
+<p align="center">
+  <img src="./assets/HLD_LLD_SQL_Secirity.gif" alt="Backend Engineering Foundations Demo" width="100%">
+</p>
+
+Repository walkthrough demonstrating the organization of topics and the visual learning approach used throughout this repository.
 
 > **Looking for Computer Networks?**
-> Check out **Networks Foundation** — a companion repository with **30+ visual Computer Networks diagrams** covering OSI, TCP/IP, Routing, Switching, Security, TCP vs UDP, WebSocket vs WebRTC, and more.
-> 
-> - https://github.com/100NikhilBro/networks-foundation
+>
+> Explore **Networks Foundation**:
+> https://github.com/100NikhilBro/networks-foundation
 
 > **Looking for Operating Systems & Database Management Systems?**
-> Check out **OS & DBMS Foundation** — a companion repository with **visual Operating Systems and Database Management Systems diagrams** covering Process Management, Memory Management, Deadlocks, SQL, Normalization, Transactions, Indexing, MVCC, Replication, and more.
-> 
-> - https://github.com/100NikhilBro/os_dbms
+>
+> Explore **OS & DBMS Foundation**:
+> https://github.com/100NikhilBro/os_dbms
 
 ---
 
@@ -20,17 +24,18 @@ A visual-first repository for learning Backend Engineering, System Design, Secur
 
 This repository serves as a visual reference for:
 
-* Backend Engineering Fundamentals
-* Low Level Design (LLD)
-* Object-Oriented Design (OOD)
-* Design Principles (SOLID, Coupling & Cohesion)
-* System Design Concepts
-* Distributed Systems
-* Networking
-* Database Internals
-* Security Fundamentals
-* Scalability & Reliability Patterns
-* Technical Interview Preparation
+- Backend Engineering Fundamentals
+- Low Level Design (LLD)
+- Object-Oriented Design (OOD)
+- SOLID Principles
+- Design Patterns
+- System Design
+- Distributed Systems
+- Networking
+- Database Internals
+- Security Fundamentals
+- Scalability & Reliability Patterns
+- Technical Interview Preparation
 
 ---
 
