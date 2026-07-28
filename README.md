@@ -231,19 +231,19 @@ This repository serves as a visual reference for:
 | 26 | [Bloom Filter](#bloom-filter) |
 | 27 | [Merkle Tree](#merkle-tree) |
 | 28 | [Gossip Protocol & Database Failures](#gossip-protocol--database-failures) |
-| 29 | [Federation](#federation) |
-| 30 | [HTTP Fundamentals](#http-fundamentals) |
-| 31 | [HTTP Headers](#http-headers) |
-| 32 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
-| 33 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
-| 34 | [API Versioning](#api-versioning) |
-| 35 | [Event Driven Architecture](#event-driven-architecture) |
-| 36 | [Payment Gateway Overview](#payment-gateway-overview) |
-| 37 | [SQL Architecture](#sql-architecture) |
-| 38 | [Isolation Levels & Locking](#isolation-levels--locking) |
-| 39 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
-| 40 | [Decorators](#decorators) |
-
+| 29 | [Quorum Algorithm](#quorum-algorithm) |
+| 30 | [Federation](#federation) |
+| 31 | [HTTP Fundamentals](#http-fundamentals) |
+| 32 | [HTTP Headers](#http-headers) |
+| 33 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
+| 34 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
+| 35 | [API Versioning](#api-versioning) |
+| 36 | [Event Driven Architecture](#event-driven-architecture) |
+| 37 | [Payment Gateway Overview](#payment-gateway-overview) |
+| 38 | [SQL Architecture](#sql-architecture) |
+| 39 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 40 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 41 | [Decorators](#decorators) |
 ---
 
 ## AWS Frequently Used Services Overview
@@ -411,6 +411,12 @@ This repository serves as a visual reference for:
 ## Gossip Protocol & Database Failures
 
 ![Gossip Protocol & Database Failures](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/FailureInDb_GossipAlgo.png)
+
+<br><br><br>
+
+## Quorum Algorithm
+
+![Quorum Algorithm](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/QuorumAlgorithm.png)
 
 <br><br><br>
 
