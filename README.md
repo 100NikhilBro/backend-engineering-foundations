@@ -1,21 +1,20 @@
 # Backend Engineering Foundations
 
-A visual-first repository for learning Backend Engineering, Low Level Design, System Design, Security, SQL, and Distributed Systems through structured diagrams.
+A structured visual guide to **Backend Engineering**, **System Design**, **Distributed Systems**, **Low Level Design**, **Databases**, and **Backend Security**.
 
-<p align="center">
-  <img src="./assets/HLD_LLD_SQL_Secirity.gif" alt="Backend Engineering Foundations Demo" width="100%">
-</p>
+https://github.com/user-attachments/assets/46b9d189-3b0f-4189-9645-c45042d44547
 
-Repository walkthrough demonstrating the organization of topics and the visual learning approach used throughout this repository.
 
-> **Looking for Computer Networks?**
+---
+
+Learn backend engineering through structured visual diagrams designed for learning, revision, and interview preparation.
+
+> **Related Repositories**
 >
-> Explore **Networks Foundation**:
+> **Networks Foundation**  
 > https://github.com/100NikhilBro/networks-foundation
-
-> **Looking for Operating Systems & Database Management Systems?**
 >
-> Explore **OS & DBMS Foundation**:
+> **OS & DBMS Foundation**  
 > https://github.com/100NikhilBro/os_dbms
 
 ---
