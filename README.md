@@ -230,20 +230,22 @@ This repository serves as a visual reference for:
 | 26 | [Bloom Filter](#bloom-filter) |
 | 27 | [Merkle Tree](#merkle-tree) |
 | 28 | [Gossip Protocol & Database Failures](#gossip-protocol--database-failures) |
-| 29 | [Leader Election](#leader-election) |
-| 30 | [Quorum Algorithm](#quorum-algorithm) |
-| 31 | [Federation](#federation) |
-| 32 | [HTTP Fundamentals](#http-fundamentals) |
-| 33 | [HTTP Headers](#http-headers) |
-| 34 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
-| 35 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
-| 36 | [API Versioning](#api-versioning) |
-| 37 | [Event Driven Architecture](#event-driven-architecture) |
-| 38 | [Payment Gateway Overview](#payment-gateway-overview) |
-| 39 | [SQL Architecture](#sql-architecture) |
-| 40 | [Isolation Levels & Locking](#isolation-levels--locking) |
-| 41 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
-| 42 | [Decorators](#decorators) |
+| 29 | [Quorum Algorithm](#quorum-algorithm) |
+| 30 | [Leader Election](#leader-election) |
+| 31 | [Distributed Lock](#distributed-lock) |
+| 32 | [Federation](#federation) |
+| 33 | [HTTP Fundamentals](#http-fundamentals) |
+| 34 | [HTTP Headers](#http-headers) |
+| 35 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
+| 36 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
+| 37 | [API Versioning](#api-versioning) |
+| 38 | [Event Driven Architecture](#event-driven-architecture) |
+| 39 | [Payment Gateway Overview](#payment-gateway-overview) |
+| 40 | [SQL Architecture](#sql-architecture) |
+| 41 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 42 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 43 | [Decorators](#decorators) |
+
 ---
 
 ## AWS Frequently Used Services Overview
@@ -423,6 +425,12 @@ This repository serves as a visual reference for:
 ## Quorum Algorithm
 
 ![Quorum Algorithm](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/QuorumAlgorithm.png)
+
+<br><br><br>
+
+## Distributed Lock
+
+![Distributed Lock](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/DistributedLock.png)
 
 <br><br><br>
 
