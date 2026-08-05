@@ -232,19 +232,20 @@ This repository serves as a visual reference for:
 | 28 | [Gossip Protocol & Database Failures](#gossip-protocol--database-failures) |
 | 29 | [Quorum Algorithm](#quorum-algorithm) |
 | 30 | [Leader Election](#leader-election) |
-| 31 | [Distributed Lock](#distributed-lock) |
-| 32 | [Federation](#federation) |
-| 33 | [HTTP Fundamentals](#http-fundamentals) |
-| 34 | [HTTP Headers](#http-headers) |
-| 35 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
-| 36 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
-| 37 | [API Versioning](#api-versioning) |
-| 38 | [Event Driven Architecture](#event-driven-architecture) |
-| 39 | [Payment Gateway Overview](#payment-gateway-overview) |
-| 40 | [SQL Architecture](#sql-architecture) |
-| 41 | [Isolation Levels & Locking](#isolation-levels--locking) |
-| 42 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
-| 43 | [Decorators](#decorators) |
+| 31 | [Raft Consensus Algorithm - Part 1](#raft-consensus-algorithm---part-1) |
+| 32 | [Distributed Lock](#distributed-lock) |
+| 33 | [Federation](#federation) |
+| 34 | [HTTP Fundamentals](#http-fundamentals) |
+| 35 | [HTTP Headers](#http-headers) |
+| 36 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
+| 37 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
+| 38 | [API Versioning](#api-versioning) |
+| 39 | [Event Driven Architecture](#event-driven-architecture) |
+| 40 | [Payment Gateway Overview](#payment-gateway-overview) |
+| 41 | [SQL Architecture](#sql-architecture) |
+| 42 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 43 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 44 | [Decorators](#decorators) |
 
 ---
 
@@ -425,6 +426,12 @@ This repository serves as a visual reference for:
 ## Quorum Algorithm
 
 ![Quorum Algorithm](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/QuorumAlgorithm.png)
+
+<br><br><br>
+
+## Raft Consensus Algorithm - Part 1
+
+![Raft Consensus Algorithm - Part 1](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/RaftConsensusAlgorithm_Part1.png)
 
 <br><br><br>
 
