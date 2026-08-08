@@ -235,19 +235,20 @@ This repository serves as a visual reference for:
 | 31 | [Raft Consensus Algorithm - Part 1](#raft-consensus-algorithm---part-1) |
 | 32 | [Raft Consensus Algorithm - Part 2](#raft-consensus-algorithm---part-2) |
 | 33 | [Raft Consensus Algorithm - Part 3](#raft-consensus-algorithm---part-3) |
-| 34 | [Distributed Lock](#distributed-lock) |
-| 35 | [Federation](#federation) |
-| 36 | [HTTP Fundamentals](#http-fundamentals) |
-| 37 | [HTTP Headers](#http-headers) |
-| 38 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
-| 39 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
-| 40 | [API Versioning](#api-versioning) |
-| 41 | [Event Driven Architecture](#event-driven-architecture) |
-| 42 | [Payment Gateway Overview](#payment-gateway-overview) |
-| 43 | [SQL Architecture](#sql-architecture) |
-| 44 | [Isolation Levels & Locking](#isolation-levels--locking) |
-| 45 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
-| 46 | [Decorators](#decorators) |
+| 34 | [Raft Consensus Algorithm - Part 4](#raft-consensus-algorithm---part-4) |
+| 35 | [Distributed Lock](#distributed-lock) |
+| 36 | [Federation](#federation) |
+| 37 | [HTTP Fundamentals](#http-fundamentals) |
+| 38 | [HTTP Headers](#http-headers) |
+| 39 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
+| 40 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
+| 41 | [API Versioning](#api-versioning) |
+| 42 | [Event Driven Architecture](#event-driven-architecture) |
+| 43 | [Payment Gateway Overview](#payment-gateway-overview) |
+| 44 | [SQL Architecture](#sql-architecture) |
+| 45 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 46 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 47 | [Decorators](#decorators) |
 
 ---
 
@@ -446,6 +447,12 @@ This repository serves as a visual reference for:
 ## Raft Consensus Algorithm - Part 3
 
 ![Raft Consensus Algorithm - Part 3](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Raft_Part3.png)
+
+<br><br><br>
+
+## Raft Consensus Algorithm - Part 4
+
+![Raft Consensus Algorithm - Part 4](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Raft_Part4.png)
 
 <br><br><br>
 
