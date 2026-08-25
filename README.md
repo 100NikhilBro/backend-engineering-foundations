@@ -2,7 +2,8 @@
 
 A structured visual guide to **Backend Engineering**, **System Design**, **Distributed Systems**, **Low Level Design**, **Databases**, and **Backend Security**.
 
-https://github.com/user-attachments/assets/46b9d189-3b0f-4189-9645-c45042d44547
+
+https://github.com/user-attachments/assets/9f99dac6-4dfe-4012-ab8f-3a70f4baa2d8
 
 
 ---
