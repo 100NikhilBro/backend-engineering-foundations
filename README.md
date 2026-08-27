@@ -239,8 +239,8 @@ This repository serves as a visual reference for:
 | 34 | [Raft Consensus Algorithm - Part 4](#raft-consensus-algorithm---part-4) |
 | 35 | [Distributed Lock](#distributed-lock) |
 | 36 | [Federation](#federation) |
-| 37 | [HTTP Fundamentals](#http-fundamentals) |
-| 38 | [HTTP Headers](#http-headers) |
+| 37 | [HTTP Fundamentals - Part 1](#http-fundamentals---part-1) |
+| 38 | [HTTP Fundamentals - Part 2](#http-fundamentals---part-2) |
 | 39 | [Remote Procedure Call (RPC)](#remote-procedure-call-rpc) |
 | 40 | [Server-Sent Events (SSE) & Webhooks](#server-sent-events-sse--webhooks) |
 | 41 | [API Versioning](#api-versioning) |
@@ -469,15 +469,15 @@ This repository serves as a visual reference for:
 
 <br><br><br>
 
-## HTTP Fundamentals
+## HTTP Fundamentals - Part 1
 
-![HTTP Fundamentals](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Http.png)
+![HTTP Fundamentals - Part 1](https://github.com/100NikhilBro/backend-engineering-foundations/blob/main/HLD/Http_Part1.png)
 
 <br><br><br>
 
-## HTTP Headers
+## HTTP Fundamentals - Part 2
 
-![HTTP Headers](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Header.png)
+![HTTP Fundamentals - Part 2](https://github.com/100NikhilBro/backend-engineering-foundations/blob/main/HLD/Http_Part2.png)
 
 <br><br><br>
 
