@@ -495,7 +495,7 @@ This repository serves as a visual reference for:
 
 ## API Versioning
 
-![API Versioning](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/Versioning.png)
+![API Versioning](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/APIVersioning.png)
 
 <br><br><br>
 
