@@ -501,7 +501,7 @@ This repository serves as a visual reference for:
 
 ## Event Driven Architecture
 
-![Event Driven Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/EventDrivenArchitetcure.png)
+![Event Driven Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/EventDrivenArchitetcure.png)
 
 <br><br><br>
 
