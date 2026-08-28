@@ -249,7 +249,6 @@ This repository serves as a visual reference for:
 | 44 | [SQL Architecture](#sql-architecture) |
 | 45 | [Isolation Levels & Locking](#isolation-levels--locking) |
 | 46 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
-| 47 | [Decorators](#decorators) |
 
 ---
 
@@ -526,12 +525,6 @@ This repository serves as a visual reference for:
 ## Why Backend Shouldn't Serve Static Files
 
 ![Why Backend Shouldn't Serve Static Files](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/BackendNotServeStaticFiles.png)
-
-<br><br><br>
-
-## Decorators
-
-![Decorators](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/Network%26System/Decorators.png)
 
 <br><br><br>
 
