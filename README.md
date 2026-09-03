@@ -231,8 +231,8 @@ This repository serves as a visual reference for:
 | 26 | [Bloom Filter](#bloom-filter) |
 | 27 | [Merkle Tree](#merkle-tree) |
 | 28 | [Gossip Protocol & Database Failures](#gossip-protocol--database-failures) |
-| 29 | [Quorum Algorithm](#quorum-algorithm) |
-| 30 | [Leader Election](#leader-election) |
+| 29 | [Leader Election](#leader-election) |
+| 30 | [Quorum Algorithm](#quorum-algorithm) |
 | 31 | [Raft Consensus Algorithm - Part 1](#raft-consensus-algorithm---part-1) |
 | 32 | [Raft Consensus Algorithm - Part 2](#raft-consensus-algorithm---part-2) |
 | 33 | [Raft Consensus Algorithm - Part 3](#raft-consensus-algorithm---part-3) |
@@ -247,8 +247,10 @@ This repository serves as a visual reference for:
 | 42 | [Event Driven Architecture](#event-driven-architecture) |
 | 43 | [Payment Gateway Overview](#payment-gateway-overview) |
 | 44 | [SQL Architecture](#sql-architecture) |
-| 45 | [Isolation Levels & Locking](#isolation-levels--locking) |
-| 46 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+| 45 | [Write-Ahead Logging & Database Recovery](#write-ahead-logging--database-recovery) |
+| 46 | [Isolation Levels & Locking](#isolation-levels--locking) |
+| 47 | [Why Backend Shouldn't Serve Static Files](#why-backend-shouldnt-serve-static-files) |
+
 
 ---
 
@@ -513,6 +515,13 @@ This repository serves as a visual reference for:
 ## SQL Architecture
 
 ![SQL Architecture](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/SQL_Architecture.png)
+
+<br><br><br>
+
+
+## Write-Ahead Logging & Database Recovery
+
+![Write-Ahead Logging & Database Recovery](https://raw.githubusercontent.com/100NikhilBro/backend-engineering-foundations/main/HLD/WAL.png)
 
 <br><br><br>
 
