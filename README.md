@@ -17,6 +17,12 @@ Learn backend engineering through structured visual diagrams designed for learni
 >
 > **OS & DBMS Foundation**  
 > https://github.com/100NikhilBro/os_dbms
+>
+> **Node.js Scaling Lab**  
+> https://github.com/100NikhilBro/nodejs-scaling-lab
+>
+> **DevContainer Lab**  
+> https://github.com/100NikhilBro/devcontainer-lab
 
 ---
 
